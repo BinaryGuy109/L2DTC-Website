@@ -2,7 +2,7 @@
       .product-grid {
         display: grid;
         grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
-        gap: 20px; /* Adjust the gap between grid items */
+        gap: 15px; /* Adjust the gap between grid items */
       }
 
       .product-item {
@@ -11,4 +11,8 @@
         border-radius: 10px;
         box-shadow: 0 2px 4px rgba(173, 50, 50, 0.1);
         text-align: center;
+      }
+
+      .product-item:hover {
+        background-color: rgb(121, 120, 127);
       }
