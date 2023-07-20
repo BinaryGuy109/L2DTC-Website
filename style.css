@@ -6,7 +6,7 @@
       }
 
       .product-item {
-        background-color: rgb(141, 140, 147);
+        background-color: rgb(84, 121, 243);
         padding: 20px;
         border-radius: 10px;
         box-shadow: 0 2px 4px rgba(173, 50, 50, 0.1);
@@ -15,7 +15,7 @@
       }
 
       .product-item:hover {
-        background-color: rgb(121, 120, 127);
+        background-color: rgb(44, 78, 190);
       }
 
       .centered {
@@ -25,7 +25,7 @@
       }
       
       .product-container {
-        background-color: rgb(141, 140, 147);
+        background-color: #2849a5;
         padding: 20px;
         border-radius: 10px;
         box-shadow: 0 2px 4px rgba(173, 50, 50, 0.1);
